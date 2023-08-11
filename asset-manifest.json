@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UtkarshParivar/static/css/main.dc91204a.css",
+    "main.js": "/UtkarshParivar/static/js/main.b47f6550.js",
+    "static/js/787.0b664bbb.chunk.js": "/UtkarshParivar/static/js/787.0b664bbb.chunk.js",
+    "index.html": "/UtkarshParivar/index.html",
+    "main.dc91204a.css.map": "/UtkarshParivar/static/css/main.dc91204a.css.map",
+    "main.b47f6550.js.map": "/UtkarshParivar/static/js/main.b47f6550.js.map",
+    "787.0b664bbb.chunk.js.map": "/UtkarshParivar/static/js/787.0b664bbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc91204a.css",
+    "static/js/main.b47f6550.js"
+  ]
+}
