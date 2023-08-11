@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UtkarshParivar/static/css/main.dc91204a.css",
-    "main.js": "/UtkarshParivar/static/js/main.b47f6550.js",
-    "static/js/787.0b664bbb.chunk.js": "/UtkarshParivar/static/js/787.0b664bbb.chunk.js",
-    "index.html": "/UtkarshParivar/index.html",
-    "main.dc91204a.css.map": "/UtkarshParivar/static/css/main.dc91204a.css.map",
-    "main.b47f6550.js.map": "/UtkarshParivar/static/js/main.b47f6550.js.map",
-    "787.0b664bbb.chunk.js.map": "/UtkarshParivar/static/js/787.0b664bbb.chunk.js.map"
+    "main.css": "/UtkarshParivarBuild/static/css/main.dc91204a.css",
+    "main.js": "/UtkarshParivarBuild/static/js/main.1fb1a0eb.js",
+    "static/js/787.0b664bbb.chunk.js": "/UtkarshParivarBuild/static/js/787.0b664bbb.chunk.js",
+    "index.html": "/UtkarshParivarBuild/index.html",
+    "main.dc91204a.css.map": "/UtkarshParivarBuild/static/css/main.dc91204a.css.map",
+    "main.1fb1a0eb.js.map": "/UtkarshParivarBuild/static/js/main.1fb1a0eb.js.map",
+    "787.0b664bbb.chunk.js.map": "/UtkarshParivarBuild/static/js/787.0b664bbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc91204a.css",
-    "static/js/main.b47f6550.js"
+    "static/js/main.1fb1a0eb.js"
   ]
 }
